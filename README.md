@@ -81,7 +81,6 @@ SO THAT I can plan my meals accordingly
 
 To view this project, the deployed site can be found at: https://nasinghw.github.io/Balanced-Plates-Meal-Planner
 \
-Link to GitHub Repo for this project: https://github.com/nasinghw/Balanced-Plates-Meal-Planner/
 
 ## Website Screenshots
 ![Homepage](https://github.com/nasinghw/Balanced-Plates-Meal-Planner//assets/151625048/80905b65-8528-486c-86ba-1d2d5dc43b70)
